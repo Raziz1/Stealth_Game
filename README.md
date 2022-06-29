@@ -18,7 +18,7 @@ The following project is a quick stealth game designed in the CodeBlocks IDE usi
 * The player sometimes runs over crates and is pushed all the way to the other side of the crate
 * Sometimes the bot doesn't spot the player
 * Sometimes the player can spawn in a position where it is completely surrounded by crates
-* Calculates the euclidean distance but doesn't use diagonal movements for the A* pathfinding algorithm
+* This A* pathfinding algorithm calculates the euclidean distance but doesn't use diagonal movements
 
 ## Future Updates 🔼  
 * Health for the main player
